@@ -21,5 +21,4 @@
             android:layout_height="wrap_content"
             tools:listitem="@layout/card_music" />
 
-    </LinearLayout>
-
+</LinearLayout>
